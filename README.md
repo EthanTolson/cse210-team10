@@ -7,3 +7,5 @@ Hello! my names Austin, I was born and raised in Meridian, Idaho. I'm an avid lo
 - Dawson Miskin -
 Hey Guys I am Dawson I am from Idaho Falls...not to far away from Rexburg,
 I enjoy exploring new palces and seeing new things, I also love to learn and am always looking for new things to work on.
+- Jace Wilderman -
+I am from Saint Augustine, Florida. I enjoy colder weather so I do not enjoy summer and springs here as much. I enjoy video games, programming and playing with my pets.
