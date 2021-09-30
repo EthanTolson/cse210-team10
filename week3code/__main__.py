@@ -1,5 +1,5 @@
 from tolson import giveGreetingEthan
-from miskin import greetingMiskin
+from miskin import miskinGreeting
 
 print("Welcome to our collabrative program.")
 giveGreetingEthan()
