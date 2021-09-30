@@ -9,3 +9,5 @@ Hey Guys I am Dawson I am from Idaho Falls...not too far away from Rexburg,
 I enjoy exploring new palces and seeing new things, I also love to learn and am always looking for new things to work on.
 - Jace Wilderman -
 I am from Saint Augustine, Florida. I enjoy colder weather so I do not enjoy summer and springs here as much. I enjoy video games, programming and playing with my pets.
+- Stephen Nielsen -
+I'm from Kent, Washington. I enjoy doing things like cooking, video games, and making puzzle boxes in my free time.
