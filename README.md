@@ -17,5 +17,9 @@ Hello! my names Austin, I was born and raised in Meridian, Idaho. I'm an avid lo
 - Jace Wilderman -
 I am from Saint Augustine, Florida. I enjoy colder weather so I do not enjoy summer and springs here as much. I enjoy video games, programming and playing with my pets.
 - Stephen Nielsen -
+<<<<<<< HEAD
 I'm from Kent, Washington. I enjoy doing things like cooking, video games, and making puzzle boxes in my free time.
 
+=======
+I'm from Kent, Washington. I enjoy doing things like cooking, video games, and making puzzle boxes in my free time.
+>>>>>>> ab32dcd780a8cf44818e0385d15f00ddd6f0ee4f
